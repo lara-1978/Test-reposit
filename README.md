@@ -11,4 +11,4 @@ finish text
 
 Added text in a new branch
 
-Добавил  локальный конфликт 
+Добавил  локальный конфликт21 
