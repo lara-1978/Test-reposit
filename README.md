@@ -12,3 +12,5 @@ finish text
 Added text in a new branch
 
 Добавил  локальный конфликт21 
+
+конец работы
